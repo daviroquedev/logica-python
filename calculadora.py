@@ -1,32 +1,32 @@
 def calculadora():
   x=float(input('Digite um valor: '))
-  o=input('Digite um operador matématico: ')
+  operador=input('Digite um operador matématico: ')
   
   # FUNÇAO SOMAR
-  if o=='+':
+  if operador=='+':
      y=float(input('Digite um valor: '))
      somar(x,y)
      encerrar()
   # FUNÇÃO DIMINUIR
-  elif o =='-':
+  elif operador =='-':
      y=float(input('Digite um valor: '))
      subtracao(x,y)
      encerrar()
   # FUNÇÃO MULTIPLICAR  
-  elif o =='*':
+  elif operador =='*':
      y=float(input('Digite um valor: '))
      multiplicar(x,y)
      encerrar()
   # FUNÇÃO DIVIDIR
-  elif o == '/' or o==':':
+  elif operador == '/' or o==':':
      y=float(input('Digite um valor: '))
      dividir(x,y)
      encerrar()
   # FUNÇÃO PORCENTAGEM
-  elif o=='%':
+  elif operador=='%':
     porcentagem(x)
     encerrar()
-  elif o=='fim':
+  elif operador=='fim':
     print('fim')
   else:
     print('Operador invalido')

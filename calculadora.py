@@ -50,7 +50,7 @@ def porcentagem(x):
   print('PORCENTAGEM',x/100,'%')
 
 def encerrar():
-  continuar = input('Deseja fazer outra operação? 1- SIM 2-NÃO')
+  continuar = input('Deseja fazer outra operação? 1- SIM 2-NÃO: ')
   if(continuar == '1'):
     calculadora()
   elif(continuar == '2'):

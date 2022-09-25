@@ -26,3 +26,21 @@ https://user-images.githubusercontent.com/101668192/173120389-5ed22777-4abc-4a7d
 https://user-images.githubusercontent.com/101668192/173927198-36141fba-97f2-4617-bc84-6d8fce02db72.mp4
 
 
+# PRINTS DE ESTUDO CURSO PYTHON AVANÇADO LINKEDIN LEARNING
+
+### COLEÇÕES BASICAS
+![collectionsbasicas](https://user-images.githubusercontent.com/101668192/192151465-35307af2-962c-46ac-a1f5-c47864e93bc4.jpg)
+
+### MAIS COLEÇÕES 
+![pythoncollectionsa](https://user-images.githubusercontent.com/101668192/192151492-f6b1ff4d-b8ef-4f88-b60a-00f5c730774d.jpg)
+
+### FUNÇÕES DE ATRIBUTOS DE CLASSE
+![atributosclasse](https://user-images.githubusercontent.com/101668192/192151509-82eb0dee-1554-49f0-96d3-1a6274e438ad.jpg)
+
+### OPERADORES DE COMPARAÇÃO
+![operadoresComparacao](https://user-images.githubusercontent.com/101668192/192151517-16775477-a3c2-4ab1-8961-530efd29f65f.jpg)
+
+### OPERADORES DE CLASSE NUMERICAS
+![operadoresclassesnumericas](https://user-images.githubusercontent.com/101668192/192151528-96b19ad0-290a-4ebc-9421-e8e1f0dcb8bb.jpg)
+![operadoresclassesnumericas2](https://user-images.githubusercontent.com/101668192/192151536-cbd46607-60d5-4baa-921c-296c9804b3ea.jpg)
+

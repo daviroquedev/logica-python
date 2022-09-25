@@ -26,5 +26,3 @@ https://user-images.githubusercontent.com/101668192/173120389-5ed22777-4abc-4a7d
 https://user-images.githubusercontent.com/101668192/173927198-36141fba-97f2-4617-bc84-6d8fce02db72.mp4
 
 
-# ESTUDOS LINKEDIN LEARNING
-![collectionsbasicas](https://user-images.githubusercontent.com/101668192/192151305-c7cb6228-2f49-474b-8dba-361022635bed.jpg)
